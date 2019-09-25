@@ -1,0 +1,11 @@
+<!-- ko if: (visible)-->
+<div class="field addresses">
+    <div class="control">
+    <div class="billing-address-items">
+        <!-- ko foreach: { data: elems, as: 'element' } -->
+        <!-- ko template: element.getTemplate() --><!-- /ko -->
+        <!-- /ko -->
+    </div>
+    </div>
+</div>
+<!-- /ko -->
