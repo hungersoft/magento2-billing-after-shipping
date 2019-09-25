@@ -18,4 +18,4 @@ php bin/magento setup:upgrade
 
 ## Support
 
-Feel free to contact [Hungersoft](https://www.hungerosft.com/contact) at support@hungersoft.com if you are facing any issues with this extension. Reviews, suggestions and feedback will be greatly appreciated.
+Feel free to contact [Hungersoft](https://www.hungersoft.com/contact) at support@hungersoft.com if you are facing any issues with this extension. Reviews, suggestions and feedback will be greatly appreciated.
